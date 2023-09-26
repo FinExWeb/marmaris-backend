@@ -1,0 +1,62 @@
+[
+  {
+    "xona_count": "3",
+    "xona_tozaligi_star": "2",
+    "nonushta_star": "2",
+    "RECEPTION_star": "2",
+    "restoran_star": "3",
+    "basseyn_star": "4",
+    "comment": "yomon emas",
+    "image": "image-1695686794705.jpg"
+  },
+  {
+    "xona_count": "3",
+    "xona_tozaligi_star": "2",
+    "nonushta_star": "3",
+    "RECEPTION_star": "2",
+    "restoran_star": "3",
+    "basseyn_star": "4",
+    "comment": "yomon emas",
+    "image": "image-1695686875373.jpg"
+  },
+  {
+    "xona_count": "404",
+    "xona_tozaligi_star": "4",
+    "nonushta_star": "2",
+    "RECEPTION_star": "2",
+    "restoran_star": "4",
+    "basseyn_star": "4",
+    "comment": "ajoyib ekan!",
+    "image": null
+  },
+  {
+    "xona_count": "202",
+    "xona_tozaligi_star": "3",
+    "nonushta_star": "3",
+    "RECEPTION_star": "undefined",
+    "restoran_star": "undefined",
+    "basseyn_star": "undefined",
+    "comment": "salom",
+    "image": null
+  },
+  {
+    "xona_count": "202",
+    "xona_tozaligi_star": "3",
+    "nonushta_star": "3",
+    "RECEPTION_star": "undefined",
+    "restoran_star": "undefined",
+    "basseyn_star": "undefined",
+    "comment": "salom",
+    "image": null
+  },
+  {
+    "xona_count": "202",
+    "xona_tozaligi_star": "4",
+    "nonushta_star": "3",
+    "RECEPTION_star": "4",
+    "restoran_star": "3",
+    "basseyn_star": "5",
+    "comment": "Ajoyib ekan!",
+    "image": null
+  }
+]
